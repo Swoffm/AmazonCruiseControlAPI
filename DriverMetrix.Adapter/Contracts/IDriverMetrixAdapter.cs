@@ -1,4 +1,5 @@
 ﻿using DriverMetrix.Adapter.BusinessEntites;
+using DriverMetrix.Data.DBEntities;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -8,6 +9,6 @@ namespace DriverMetrix.Adapter.Contracts
 {
     public interface IDriverMetrixAdapter
     {        
-        Task<DriverBE> ProcessDriverRoute(string driverId);
+        Task<Driver> ProcessDriverRoute(bool[] isCruise, string driverId);
     }
 }
