@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fDgqrmbi9vhAYEMY6k7hNZ9Y2nV1yv3qMtkeIii0uvwKsq4MMCIim8BT4P1jALGzuZW9Z2IQ32sLOXaUXCU+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sheil\\source\\repos\\AmazonCruiseControlAPI\\Challenge2-AmazonCruiseControlAPI\\AmazonCruiseControl\\AmazonCruiseControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sheil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sheil\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\sheil\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\sheil\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
