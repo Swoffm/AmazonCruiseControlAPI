@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonDriverCruiseControl", "AmazonDriverCruiseControl\AmazonDriverCruiseControl.csproj", "{21BD39A3-B01F-4C6E-88D2-1F38421085D4}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapter", "Adapter", "{F866FA1D-0FF7-4F88-A1C7-BB3BA5892A37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverMetrix.Adapter", "DriverMetrix.Adapter\DriverMetrix.Adapter.csproj", "{378BD1F0-6847-4A97-8B73-17734E68F7AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DriverMetrix.Adapter", "DriverMetrix.Adapter\DriverMetrix.Adapter.csproj", "{378BD1F0-6847-4A97-8B73-17734E68F7AB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{E26818E5-4B35-450E-A2D8-2870B5785843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverMetrix.Data", "DriverMetrix.Data\DriverMetrix.Data.csproj", "{F39AEBFF-303B-45A3-8B40-5E7F787A261B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DriverMetrix.Data", "DriverMetrix.Data\DriverMetrix.Data.csproj", "{F39AEBFF-303B-45A3-8B40-5E7F787A261B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Facade", "Facade", "{C9018672-9FD5-43F1-B31D-E56E1601B219}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverMetrix.Facade", "DriverMetrix.Facade\DriverMetrix.Facade.csproj", "{15302F97-071C-46A4-AD9B-2307DEA93BA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DriverMetrix.Facade", "DriverMetrix.Facade\DriverMetrix.Facade.csproj", "{15302F97-071C-46A4-AD9B-2307DEA93BA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonCruiseControl", "AmazonCruiseControl\AmazonCruiseControl.csproj", "{B70E4BC1-5223-4EEE-86C4-48834E9AF4E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{21BD39A3-B01F-4C6E-88D2-1F38421085D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21BD39A3-B01F-4C6E-88D2-1F38421085D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21BD39A3-B01F-4C6E-88D2-1F38421085D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21BD39A3-B01F-4C6E-88D2-1F38421085D4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{378BD1F0-6847-4A97-8B73-17734E68F7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{378BD1F0-6847-4A97-8B73-17734E68F7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{378BD1F0-6847-4A97-8B73-17734E68F7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{15302F97-071C-46A4-AD9B-2307DEA93BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15302F97-071C-46A4-AD9B-2307DEA93BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15302F97-071C-46A4-AD9B-2307DEA93BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B70E4BC1-5223-4EEE-86C4-48834E9AF4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70E4BC1-5223-4EEE-86C4-48834E9AF4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70E4BC1-5223-4EEE-86C4-48834E9AF4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70E4BC1-5223-4EEE-86C4-48834E9AF4E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

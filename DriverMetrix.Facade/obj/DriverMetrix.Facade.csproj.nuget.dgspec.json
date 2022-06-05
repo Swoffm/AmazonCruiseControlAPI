@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mark\\source\\repos\\AmazonDriverCruiseControl\\DriverMetrix.Facade\\DriverMetrix.Facade.csproj": {}
+    "C:\\Users\\sheil\\source\\repos\\AmazonCruiseControlAPI\\Challenge2-AmazonCruiseControlAPI\\DriverMetrix.Facade\\DriverMetrix.Facade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mark\\source\\repos\\AmazonDriverCruiseControl\\DriverMetrix.Data\\DriverMetrix.Data.csproj": {
+    "C:\\Users\\sheil\\source\\repos\\AmazonCruiseControlAPI\\Challenge2-AmazonCruiseControlAPI\\DriverMetrix.Data\\DriverMetrix.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mark\\source\\repos\\AmazonDriverCruiseControl\\DriverMetrix.Data\\DriverMetrix.Data.csproj",
+        "projectUniqueName": "C:\\Users\\sheil\\source\\repos\\AmazonCruiseControlAPI\\Challenge2-AmazonCruiseControlAPI\\DriverMetrix.Data\\DriverMetrix.Data.csproj",
         "projectName": "DriverMetrix.Data",
-        "projectPath": "C:\\Users\\mark\\source\\repos\\AmazonDriverCruiseControl\\DriverMetrix.Data\\DriverMetrix.Data.csproj",
-        "packagesPath": "C:\\Users\\mark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mark\\source\\repos\\AmazonDriverCruiseControl\\DriverMetrix.Data\\obj\\",
+        "projectPath": "C:\\Users\\sheil\\source\\repos\\AmazonCruiseControlAPI\\Challenge2-AmazonCruiseControlAPI\\DriverMetrix.Data\\DriverMetrix.Data.csproj",
+        "packagesPath": "C:\\Users\\sheil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sheil\\source\\repos\\AmazonCruiseControlAPI\\Challenge2-AmazonCruiseControlAPI\\DriverMetrix.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sheil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -56,26 +57,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mark\\source\\repos\\AmazonDriverCruiseControl\\DriverMetrix.Facade\\DriverMetrix.Facade.csproj": {
+    "C:\\Users\\sheil\\source\\repos\\AmazonCruiseControlAPI\\Challenge2-AmazonCruiseControlAPI\\DriverMetrix.Facade\\DriverMetrix.Facade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mark\\source\\repos\\AmazonDriverCruiseControl\\DriverMetrix.Facade\\DriverMetrix.Facade.csproj",
+        "projectUniqueName": "C:\\Users\\sheil\\source\\repos\\AmazonCruiseControlAPI\\Challenge2-AmazonCruiseControlAPI\\DriverMetrix.Facade\\DriverMetrix.Facade.csproj",
         "projectName": "DriverMetrix.Facade",
-        "projectPath": "C:\\Users\\mark\\source\\repos\\AmazonDriverCruiseControl\\DriverMetrix.Facade\\DriverMetrix.Facade.csproj",
-        "packagesPath": "C:\\Users\\mark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mark\\source\\repos\\AmazonDriverCruiseControl\\DriverMetrix.Facade\\obj\\",
+        "projectPath": "C:\\Users\\sheil\\source\\repos\\AmazonCruiseControlAPI\\Challenge2-AmazonCruiseControlAPI\\DriverMetrix.Facade\\DriverMetrix.Facade.csproj",
+        "packagesPath": "C:\\Users\\sheil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sheil\\source\\repos\\AmazonCruiseControlAPI\\Challenge2-AmazonCruiseControlAPI\\DriverMetrix.Facade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sheil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -86,9 +86,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mark\\source\\repos\\AmazonDriverCruiseControl\\DriverMetrix.Data\\DriverMetrix.Data.csproj": {
-                "projectPath": "C:\\Users\\mark\\source\\repos\\AmazonDriverCruiseControl\\DriverMetrix.Data\\DriverMetrix.Data.csproj"
+              "C:\\Users\\sheil\\source\\repos\\AmazonCruiseControlAPI\\Challenge2-AmazonCruiseControlAPI\\DriverMetrix.Data\\DriverMetrix.Data.csproj": {
+                "projectPath": "C:\\Users\\sheil\\source\\repos\\AmazonCruiseControlAPI\\Challenge2-AmazonCruiseControlAPI\\DriverMetrix.Data\\DriverMetrix.Data.csproj"
               }
             }
           }
@@ -101,6 +102,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -116,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

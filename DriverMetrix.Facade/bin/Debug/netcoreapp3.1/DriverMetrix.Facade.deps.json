@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DriverMetrix.Facade/1.0.0": {
+        "dependencies": {
+          "DriverMetrix.Data": "1.0.0"
+        },
+        "runtime": {
+          "DriverMetrix.Facade.dll": {}
+        }
+      },
+      "DriverMetrix.Data/1.0.0": {
+        "runtime": {
+          "DriverMetrix.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DriverMetrix.Facade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DriverMetrix.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
