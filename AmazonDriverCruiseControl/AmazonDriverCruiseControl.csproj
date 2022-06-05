@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Jaeger.Thrift.VendoredThrift" Version="0.3.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DriverMetrix.Adapter\DriverMetrix.Adapter.csproj" />
+  </ItemGroup>
+
+
+</Project>

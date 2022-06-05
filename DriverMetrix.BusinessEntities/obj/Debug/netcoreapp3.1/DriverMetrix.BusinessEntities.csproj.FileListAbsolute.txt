@@ -1,0 +1,3 @@
+C:\Users\mark\source\repos\AmazonDriverCruiseControl\DriverMetrix.BusinessEntities\obj\Debug\netcoreapp3.1\DriverMetrix.BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\mark\source\repos\AmazonDriverCruiseControl\DriverMetrix.BusinessEntities\obj\Debug\netcoreapp3.1\DriverMetrix.BusinessEntities.AssemblyInfo.cs
+C:\Users\mark\source\repos\AmazonDriverCruiseControl\DriverMetrix.BusinessEntities\obj\Debug\netcoreapp3.1\DriverMetrix.BusinessEntities.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+C:\Users\mark\source\repos\AmazonDriverCruiseControl\DriverMetrix.Adapter\obj\Debug\netcoreapp3.1\DriverMetrix.Adapter.csprojAssemblyReference.cache
+C:\Users\mark\source\repos\AmazonDriverCruiseControl\DriverMetrix.Adapter\obj\Debug\netcoreapp3.1\DriverMetrix.Adapter.AssemblyInfoInputs.cache
+C:\Users\mark\source\repos\AmazonDriverCruiseControl\DriverMetrix.Adapter\obj\Debug\netcoreapp3.1\DriverMetrix.Adapter.AssemblyInfo.cs
+C:\Users\mark\source\repos\AmazonDriverCruiseControl\DriverMetrix.Adapter\obj\Debug\netcoreapp3.1\DriverMetrix.Adapter.csproj.CoreCompileInputs.cache
